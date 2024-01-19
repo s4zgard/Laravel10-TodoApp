@@ -39,7 +39,7 @@ This application allows users to manage tasks, including creating, editing, and 
 1. Clone the repository:
 
    ```bash
-   git clone [https://github.com/yourusername/Laravel-Task-Management-App](https://github.com/s4zgard/Laravel10-TodoApp).git
+   git clone https://github.com/s4zgard/Laravel10-TodoApp.git
 2. Install dependencies: 
    ```bash
    composer install
